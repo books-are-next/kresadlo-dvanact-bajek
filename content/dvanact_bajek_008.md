@@ -3,6 +3,8 @@ title: 3\. Hovnivár a slon
 contentType: prose
 ---
 
+<section>
+
 _**Hovnivár**, GEOTRUPES SPECIES,  
 species ovšem ňáká africká,  
 se rozhodl, že do zoologie  
@@ -31,7 +33,16 @@ _               _tak jako s tím, že sám se živíš lejnem,
 _               _co vykadí zvířata nad tě větší,  
 _               _mezi něž, ovšem, patří taky slon.“__
 
+  
+  
+
 ![](../Images/003.jpg)
+
+</section>
+
+<section>
 
 _**— ARGUMENTUM —  
 **_Tato bajka se týká jistého literárního kritika, jehož však nebudu jmenovat, abych mu nezajistil trvalejší jméno._      **![](../Images/brouk.jpg)**_
+
+</section>

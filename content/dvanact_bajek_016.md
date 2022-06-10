@@ -3,6 +3,8 @@ title: 12\. Člověk a štěničák
 contentType: prose
 ---
 
+<section>
+
 _Člověk pozoroval kdys samce štěnice  
 — CIMICEM LECTULARIUM GENERA MASCULINE —  
 jak souloží s vlastními nymfami,  
@@ -40,7 +42,13 @@ jenž ovšem v bajce mohl hovořit:
                je neuvěřitelně rozmanitá  
                a fantastičtější, než by kdo tušil.“_
 
+</section>
+
+<section>
+
 ![](../Images/012.jpg)
 
 _**— ARGUMENTUM —  
 **Jiné bytosti – jiný způsob. Příroda je ještě bizarnější než Křesadlo ve svých knihách, takže proč by nebyl._
+
+</section>

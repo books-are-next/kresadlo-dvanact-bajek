@@ -3,6 +3,8 @@ title: ''
 contentType: prose
 ---
 
+<section>
+
 Znění tohoto textu vychází z díla [Dvanáct bajek – Twelve Fables](https://search.mlp.cz/cz/titul/dvanact-bajek/3512536/#/) tak, jak bylo vydáno nakladatelstvím Tartaros v Praze v roce 2010. Pro potřeby vydání Městské knihovny v Praze byl text redakčně zpracován.
 
 **§**
@@ -15,4 +17,10 @@ Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož a
 
 Verze 1.0 z 18. 2. 2022.
 
+</section>
+
+<section>
+
 ![](../Images/image002.jpg)
+
+</section>

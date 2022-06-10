@@ -3,6 +3,8 @@ title: 11\. Člověk a pavián
 contentType: prose
 ---
 
+<section>
+
 _Člověk se tázal kdysi paviána,  
 proč že má takovou červenou zadnici.  
 A pavián, jenž v bajce ovšem mluvil,  
@@ -36,7 +38,13 @@ a pravil: „Je to prostě záležitost
                A toto vaše rčení souvisí,  
                jak jsem ti vysvětlil, s mým zadkem červeným.“_
 
+</section>
+
+<section>
+
 **![](../Images/011.jpg)**
 
 _**— ARGUMENTUM —  
 **Všechny mrzké rysy lidské společnosti pocházejí z instinktů, obecněji zvířecích a specifičtěji opičích. Úkolem vyspělého člověka je tyto tendence rozeznávat, potlačovat a nahrazovat racionálním rozhodováním._
+
+</section>

@@ -3,6 +3,8 @@ title: 10\. Volavka a axolotl
 contentType: prose
 ---
 
+<section>
+
 _V jakési louži kdesi v Mexiku,  
 jež byla dočasná a měla brzy vyschnout,  
 se v hojné míře vyskytovali  
@@ -34,9 +36,15 @@ Tu pravil jeden z mloků posledních:
                je pouze velmi slabá útěcha,  
                neb teď už žraní týká se i nás.“_
 
+</section>
+
+<section>
+
 **![](../Images/010.jpg)**
 
 _**— ARGUMENTUM —  
 a/ Chudej člověk je vždycky bit.  
 b/ Nespoléhej na osvoboditele, protože ten se pak často  
      obrátí proti tobě.**_
+
+</section>

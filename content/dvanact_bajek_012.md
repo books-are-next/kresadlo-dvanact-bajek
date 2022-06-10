@@ -3,6 +3,8 @@ title: 8\. Kůň a rejsek
 contentType: prose
 ---
 
+<section>
+
 _Kůň, uvázaný k žlabu ve stáji,  
 se chlubil maličkému rejskovi:  
                „Hle, jak jsem daleko to dopracoval,  
@@ -31,6 +33,10 @@ se chlubil maličkému rejskovi:
                jako tvá první známá fosilie,  
                a nezvětšil ses ani o kousek.“_
 
+</section>
+
+<section>
+
 _Tomuto odpověděl rejsek SOREX:  
                „Toť věru koňská úvaha a rozum!  
                Jsi sice velký, značně mohutný,  
@@ -40,5 +46,11 @@ _Tomuto odpověděl rejsek SOREX:
                Tak snaha úporná tě spoutala  
                a zbavila tě zcela svobody.“_
 
+</section>
+
+<section>
+
 _**— ARGUMENTUM —  
 Tato bajka vyjadřuje rub podnikatelských snah, že totiž podnikatel, byť úspěšný, potom neví, kde mu hlava stojí, a je permanentně zapřažen.**_
+
+</section>

@@ -3,6 +3,8 @@ title: 7\. Hrabáč kapský a kavka
 contentType: prose
 ---
 
+<section>
+
 _![](../Images/007.jpg)_
 
 _Pták **kavka** čili _CORVUS MONEDULA_  
@@ -41,7 +43,13 @@ a prokázav tak drzou nevzdělanost,
 odletěl opět krákat někam jinam,  
 nejsa si blbosti své avšak ani vědom._
 
+</section>
+
+<section>
+
 **![](../Images/008.jpg)**
 
 _**— ARGUMENTUM —  
 Tato bajka je zaměřena proti dnešní drzé, polovzdělané** **mládeži, která pronáší hloupé apodiktické soudy o věcech, kterým vůbec nerozumí.**_
+
+</section>

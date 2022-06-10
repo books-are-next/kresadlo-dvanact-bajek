@@ -3,6 +3,8 @@ title: 4\.–6\. Tři kratší bajky lidového původu
 contentType: prose
 ---
 
+<section>
+
 _I.  
 Šlakol tečkovaný DASYURUS VIVERRINUS  
 /což jakás vačnatá je kuna aneb kočka/  
@@ -21,6 +23,10 @@ anebo naopak ten klokánek byl gay —
 a pravil chlubně hláskem pisklavým:  
                „Copak jsem ti už dávno neříkal,  
                že se s tebou srát dlouho nebudu?!“_
+
+</section>
+
+<section>
 
 _II.  
 MACROSCELIDES PROBOSCIDEUS  
@@ -45,6 +51,10 @@ až slonice zařvala bolestí.
 Tu chlubně pravil bércoun africký:  
                „No vidíš, to ti dávám, že už křičíš!“_
 
+</section>
+
+<section>
+
 _III.  
 Pták moa PACHYORNIS ELEPHANTOPUS  
 na Novém Zélandě, když ještě živ byl, potkal,  
@@ -55,7 +65,16 @@ Tu pravil ten pták moa kivimu:
 Tu pravil v odvět kivi moovi:  
                „No ale — já byl loni nemocný!“_
 
+  
+  
+
 ![](../Images/005.jpg)
+
+</section>
+
+<section>
 
 _**— ARGUMENTUM —  
 **Tyto tři bajky jsou zaměřeny proti těm, kdož přeceňují své síly, schopnosti a význam, chybně chápou události a okolnosti._
+
+</section>

@@ -3,6 +3,8 @@ title: 2\. Obluda, lev, parasit a zvířata
 contentType: prose
 ---
 
+<section>
+
 _V jakémsi lese žila mocná **obluda**,  
 která tam žrala druhá zvířata,  
 takže ji, ovšem, všechna nenáviděla.  
@@ -73,6 +75,10 @@ a takto delegaci odvětil:
                protože to byl zápas jenom lví  
                a lví je teď i rozhodování.“_
 
+</section>
+
+<section>
+
 ![](../Images/002.jpg)
 
 _**— ARGUMENTUM —  
@@ -81,3 +87,5 @@ _**— ARGUMENTUM —
 * * *
 
 _[\*](./resources/undefined) Parcere subiectis scit nobilis ira leonis._
+
+</section>

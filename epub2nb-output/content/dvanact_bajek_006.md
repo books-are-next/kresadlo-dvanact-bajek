@@ -3,6 +3,8 @@ title: 1\. Tučňáci a albatros
 contentType: prose
 ---
 
+<section>
+
 _**Tučňáci** pořádali soutěž v létání,  
 že totiž na prostranství k tomu ustanoveném,  
 každý z nich různě pobíhal a poskakoval,  
@@ -59,7 +61,16 @@ Slyše to albatros mu pravil v odvět:
 Pravil, a dovodiv svou první thesi skutkem,  
 odlétl vzhůru na mohutných křídlech._
 
+  
+  
+
 ![](../Images/001.jpg)
+
+</section>
+
+<section>
 
 _**— ARGUMENTUM —  
 **Tato bajka komentuje situaci v současné poesii._
+
+</section>

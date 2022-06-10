@@ -3,6 +3,8 @@ title: 9\. Rejsek a sova
 contentType: prose
 ---
 
+<section>
+
 _Však jedva skončil rejsek výpověď,  
 když sova pálená tu, TYTO ALBA,  
 se na něj snesla z trámu neslyšně  
@@ -15,7 +17,13 @@ A kůň to vida, opět hovořil:
                neboť mne hned tak někdo nesežere  
                tak jako pouhé zvíře maličké.“_
 
+</section>
+
+<section>
+
 **![](../Images/009.jpg)**
 
 _**— ARGUMENTUM —  
 Tento dodatek jsem sem přidal, aby se snad nepohněval můj kmenový nakladatel Dr. IŽ.**_
+
+</section>

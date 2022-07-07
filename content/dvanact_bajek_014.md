@@ -26,15 +26,15 @@ však jakmile byl velké vychytal,
 pustil se pták ten vodní do menších  
 a vzápětí tu louži vybílil.  
 Tu pravil jeden z mloků posledních:  
-               „Když objevil se COCHLEARIUS  
-               a začal velké ony mloky lovit,  
-               myslil jsem, že je ňáká spravedlnost,  
-               však nyní vidím, že tomu tak není,  
-               neb dřív nás žrali pouze větší mloci,  
-               však teď nás žere taky volavka,  
-               a to, že sežrala už mloky větší,  
-               je pouze velmi slabá útěcha,  
-               neb teď už žraní týká se i nás.“_
+            „Když objevil se COCHLEARIUS  
+            a začal velké ony mloky lovit,  
+            myslil jsem, že je ňáká spravedlnost,  
+            však nyní vidím, že tomu tak není,  
+            neb dřív nás žrali pouze větší mloci,  
+            však teď nás žere taky volavka,  
+            a to, že sežrala už mloky větší,  
+            je pouze velmi slabá útěcha,  
+            neb teď už žraní týká se i nás.“_
 
 </section>
 

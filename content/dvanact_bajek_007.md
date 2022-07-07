@@ -55,25 +55,25 @@ by nad ním mohli pomstu vykonat.
 Uslyšev lev tu jejich petici,  
 zasmál se Ivovským hlasem zhluboka,  
 a takto delegaci odvětil:  
-               „Pánové, je mi líto, bohužel,  
-               leč, jak tu vidíte, jsem pouze lvem  
-               a musím jednat dle své povahy,  
-               jak říkali již staří Římané  
-               latinsky: totiž vznešený hněv lví  
-               že umí přemoženým odpustit,[\*](./resources/undefined)  
-               a tak i tomu parasitovi,  
-               byť, přiznám se, i v řiti svědil mne.  
-               Kdybyste byli tehdy přiběhli,  
-               když měl jsem s monstrem zápas nerovný,  
-               a přispěli mi svojí pomocí,  
-               mohli jste parasita zahubit  
-               a vzít ho s sebou s onou obludou.  
-               Však, protože jste napřed čekali,  
-               až jak ten zápas vlastně dopadne,  
-               a teprv potom byli bojovní,  
-               musím vám říci pouze: bohužel,  
-               protože to byl zápas jenom lví  
-               a lví je teď i rozhodování.“_
+            „Pánové, je mi líto, bohužel,  
+            leč, jak tu vidíte, jsem pouze lvem  
+            a musím jednat dle své povahy,  
+            jak říkali již staří Římané  
+            latinsky: totiž vznešený hněv lví  
+            že umí přemoženým odpustit,[\*](./resources/undefined)  
+            a tak i tomu parasitovi,  
+            byť, přiznám se, i v řiti svědil mne.  
+            Kdybyste byli tehdy přiběhli,  
+            když měl jsem s monstrem zápas nerovný,  
+            a přispěli mi svojí pomocí,  
+            mohli jste parasita zahubit  
+            a vzít ho s sebou s onou obludou.  
+            Však, protože jste napřed čekali,  
+            až jak ten zápas vlastně dopadne,  
+            a teprv potom byli bojovní,  
+            musím vám říci pouze: bohužel,  
+            protože to byl zápas jenom lví  
+            a lví je teď i rozhodování.“_
 
 </section>
 

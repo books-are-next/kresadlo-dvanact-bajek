@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-**Hovnivár**, GEOTRUPES SPECIES,  
+**Hovnivár**, _GEOTRUPES SPECIES_,  
 species ovšem ňáká africká,  
 se rozhodl, že do zoologie  
 nepustí **slona**: Neb je příliš velký  
@@ -18,7 +18,7 @@ například uši jako lodní plachty,
 takže je vlastně zcela neoriginální,  
 byť zdálo by se právě naopak.  
 Leč jakýs jiný hmyzí pišišvor,  
-řekněme třeba LIXUS BICOLOR,  
+řekněme třeba _LIXUS BICOLOR_,  
 se hovniváru vysmál, pravě: _„Vole._  
             _Slon přece patří mezi MAMMALIA  
 _            _a uvnitř do subtřídy THERIA  
@@ -42,8 +42,8 @@ _            _mezi něž, ovšem, patří taky slon.“_
 
 <section>
 
-**— ARGUMENTUM —  
-**_Tato bajka se týká jistého literárního kritika, jehož však nebudu jmenovat, abych mu nezajistil trvalejší jméno._      **![](../Images/brouk.jpg)**
+**_— ARGUMENTUM —  
+_**_Tato bajka se týká jistého literárního kritika, jehož však nebudu jmenovat, abych mu nezajistil trvalejší jméno._      **_![](../Images/brouk.jpg)_**
 
 </section>
 

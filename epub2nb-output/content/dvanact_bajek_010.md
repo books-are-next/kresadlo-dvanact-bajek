@@ -6,31 +6,31 @@ contentType: poetry
 <section>
 
 I.  
-Šlakol tečkovaný DASYURUS VIVERRINUS  
-/což jakás vačnatá je kuna aneb kočka/  
+Šlakol tečkovaný _DASYURUS VIVERRINUS  
+/_což jakás vačnatá je kuna aneb kočka/  
 klokana pronásledoval kdys pižmového,  
-kterýžto HYPSIPRYMNODON MOSCHATUS  
-je drobné zvíře zvící potkana.  
+kterýžto _HYPSIPRYM__NODON MOSCHATUS  
+_je drobné zvíře zvící potkana.  
 Však když už kořist téměř dosahoval,  
 chytil se šlakol náhle do želez,  
 jež nastražili bodří Australané.  
-Klokánek HYPSIPRYMNODON to vida  
+Klokánek _HYPSIPRYMNODON_ to vida  
 se rychle nazpět k šlakolovi vrátil  
 a, přitočiv se k němu odzadu,  
 vykonal na bezbranném soulož násilnou —  
 buď, že ten šlakol byla samice,  
 anebo naopak ten klokánek byl gay —  
 a pravil chlubně hláskem pisklavým:  
-            „Copak jsem ti už dávno neříkal,  
-            že se s tebou srát dlouho nebudu?!“
+            _„Copak jsem ti už dávno neříkal,  
+_            _že se s tebou srát dlouho nebudu?!“_
 
 </section>
 
 <section>
 
 II.  
-MACROSCELIDES PROBOSCIDEUS  
-presslovským jménem bércoun africký  
+_MACROSCELIDES PROBOSCIDEUS  
+_presslovským jménem bércoun africký  
 a po anglicku the Elephant Shrew,  
 což po česku je asi „sloní rejsek“,  
 neboť má dlouhý pohyblivý rypák,  
@@ -49,21 +49,21 @@ Tu stalo se, že kolem létla vosa
 a bodla slonici tu do rypáku,  
 až slonice zařvala bolestí.  
 Tu chlubně pravil bércoun africký:  
-            „No vidíš, to ti dávám, že už křičíš!“
+            _„No vidíš, to ti dávám, že už křičíš!“_
 
 </section>
 
 <section>
 
 III.  
-Pták moa PACHYORNIS ELEPHANTOPUS  
-na Novém Zélandě, když ještě živ byl, potkal,  
-kiviho jakéhos APTERYX SPECIES.  
+Pták moa _PACHYORNIS ELEPHANTOPUS  
+_na Novém Zélandě, když ještě živ byl, potkal,  
+kiviho jakéhos _APTERYX SPECIES._  
 Tu pravil ten pták moa kivimu:  
-            „Hé, kivi, hele, jak jsem veliký,  
-            a ty jsi proti mně tak maličký!“  
-Tu pravil v odvět kivi moovi:  
-            „No ale — já byl loni nemocný!“
+            _„Hé, kivi, hele, jak jsem veliký,  
+_            _a ty jsi proti mně tak maličký!“  
+_Tu pravil v odvět kivi moovi:  
+            _„No ale — já byl loni nemocný!“_
 
   
   
@@ -74,7 +74,7 @@ Tu pravil v odvět kivi moovi:
 
 <section>
 
-**— ARGUMENTUM —  
-**Tyto tři bajky jsou zaměřeny proti těm, kdož přeceňují své síly, schopnosti a význam, chybně chápou události a okolnosti.
+**_— ARGUMENTUM —  
+_**_Tyto tři bajky jsou zaměřeny proti těm, kdož přeceňují své síly, schopnosti a význam, chybně chápou události a okolnosti._
 
 </section>

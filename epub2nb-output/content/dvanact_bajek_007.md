@@ -55,25 +55,24 @@ by nad ním mohli pomstu vykonat.
 Uslyšev lev tu jejich petici,  
 zasmál se Ivovským hlasem zhluboka,  
 a takto delegaci odvětil:  
-            „Pánové, je mi líto, bohužel,  
-            leč, jak tu vidíte, jsem pouze lvem  
-            a musím jednat dle své povahy,  
-            jak říkali již staří Římané  
-            latinsky: totiž vznešený hněv lví  
-            že umí přemoženým odpustit,[\*](./resources/undefined)  
-            a tak i tomu parasitovi,  
-            byť, přiznám se, i v řiti svědil mne.  
-            Kdybyste byli tehdy přiběhli,  
-            když měl jsem s monstrem zápas nerovný,  
-            a přispěli mi svojí pomocí,  
-            mohli jste parasita zahubit  
-            a vzít ho s sebou s onou obludou.  
-            Však, protože jste napřed čekali,  
-            až jak ten zápas vlastně dopadne,  
-            a teprv potom byli bojovní,  
-            musím vám říci pouze: bohužel,  
-            protože to byl zápas jenom lví  
-            a lví je teď i rozhodování.“
+            _„Pánové, je mi líto, bohužel,  
+_            _leč, jak tu vidíte, jsem pouze lvem  
+_            _a musím jednat dle své povahy,  
+_            _jak říkali již staří Římané  
+_            _latinsky: totiž vznešený hněv lví  
+_            _že umí přemoženým odpustit,_[\*](./resources/undefined)            _a tak i tomu parasitovi,  
+_            _byť, přiznám se, i v řiti svědil mne.  
+_            _Kdybyste byli tehdy přiběhli,  
+_            _když měl jsem s monstrem zápas nerovný,  
+_            _a přispěli mi svojí pomocí,  
+_            _mohli jste parasita zahubit  
+_            _a vzít ho s sebou s onou obludou.  
+_            _Však, protože jste napřed čekali,  
+_            _až jak ten zápas vlastně dopadne,  
+_            _a teprv potom byli bojovní,  
+_            _musím vám říci pouze: bohužel,  
+_            _protože to byl zápas jenom lví  
+_            _a lví je teď i rozhodování.“_
 
 </section>
 
@@ -81,8 +80,8 @@ a takto delegaci odvětil:
 
 ![](../Images/002.jpg)
 
-_**— ARGUMENTUM —  
-**Tato bajka se týká některých aspektů současnějšího politického života, jak není těžké poznat._
+_**_— ARGUMENTUM —  
+_**Tato bajka se týká některých aspektů současnějšího politického života, jak není těžké poznat._
 
 * * *
 

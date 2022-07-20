@@ -6,16 +6,16 @@ contentType: poetry
 <section>
 
 Však jedva skončil rejsek výpověď,  
-když sova pálená tu, TYTO ALBA,  
+když sova pálená tu, _TYTO ALBA_,  
 se na něj snesla z trámu neslyšně  
 a učinila konec jeho řečem.  
 A kůň to vida, opět hovořil:  
-            „Ačkoliv uvázán jsem u žlabu,  
-            a ve dne musím tvrdě pracovat,  
-            přece to má své značné výhody,  
-            že nad jiné jsem tvory vyrostl,  
-            neboť mne hned tak někdo nesežere  
-            tak jako pouhé zvíře maličké.“
+            _„Ačkoliv uvázán jsem u žlabu,  
+_            _a ve dne musím tvrdě pracovat,  
+_            _přece to má své značné výhody,  
+_            _že nad jiné jsem tvory vyrostl,  
+_            _neboť mne hned tak někdo nesežere  
+_            _tak jako pouhé zvíře maličké.“_
 
 </section>
 
@@ -23,7 +23,7 @@ A kůň to vida, opět hovořil:
 
 **![](../Images/009.jpg)**
 
-**— ARGUMENTUM —  
-Tento dodatek jsem sem přidal, aby se snad nepohněval můj kmenový nakladatel Dr. IŽ.**
+**_— ARGUMENTUM —  
+Tento dodatek jsem sem přidal, aby se snad nepohněval můj kmenový nakladatel Dr. IŽ._**
 
 </section>

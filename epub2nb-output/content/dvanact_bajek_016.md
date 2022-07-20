@@ -6,41 +6,40 @@ contentType: poetry
 <section>
 
 Člověk pozoroval kdys samce štěnice  
-— CIMICEM LECTULARIUM GENERA MASCULINE —  
-jak souloží s vlastními nymfami,  
-i zhnusil se a pravil k němu: „Prase!  
-            Nedosti na tom, že se živíš krví  
-            a nenecháš pokojné lidi spát  
-            a tím též přenášíš rozličné nemoce,  
-            nedosti na tom, že, jsa rozmáznut,  
-            ohavně smrdíš puchem nasládlým,  
-            ale jsi ještě k tomu mrzký pedofil,  
-            leč nedosti i na pedofilii —  
-            však zneužíváš ještě vlastní potomky  
-            a potenciálně i obou pohlaví!  
-            Kdybys byl člověk, šel bys do basy,  
-            ze které bys tak hnedka nevyšel —  
-            tvá mrzkost dosahuje tímto vrcholu!“  
-Jemu však odpověděl štěničák,  
+— _CIMICEM LECTULARIUM GENERA MASCULINE —  
+_jak souloží s vlastními nymfami,  
+i zhnusil se a pravil k němu: _„Prase!_  
+            _Nedosti na tom, že se živíš krví  
+_            _a nenecháš pokojné lidi spát  
+_            _a tím též přenášíš rozličné nemoce,  
+_            _nedosti na tom, že,_ _jsa rozmáznut,  
+_            _ohavně smrdíš puchem nasládlým,  
+_            _ale jsi ještě k tomu mrzký pedofil,  
+_            _leč nedosti i na pedofilii_ —  
+            _však zneužíváš ještě vlastní potomky  
+_            _a potenciálně i obou pohlaví!_  
+            _Kdybys byl člověk, šel bys do basy,  
+_            _ze které bys tak hnedka nevyšel —  
+_            _tvá mrzkost dosahuje tímto vrcholu!“  
+_Jemu však odpověděl štěničák,  
 jenž ovšem v bajce mohl hovořit:  
-            „Ničemu nerozumíš, človíčku!  
-            Neb u vás lidí pedofilie  
-            je jasnou abnormální aberací,  
-            jež neslouží žádnému účelu  
-            a nadto děti těžce traumatisuje.  
-            Však u nás, u štěnic, je tomu zcela jinak,  
-            neb je to součástí reprodukčního cyklu,  
-            protože tím, že zneužívám nymfy,  
-            vstřikuji jim své sperma do střeva  
-            a tím je živím, jako u jiných  
-            zvířat své mladé matka živí mlékem.  
-            Tak, místo abych byl snad zlotřilcem,  
-            jsem řádným živitelem potomků,  
-            však proč že se to takto udělalo,  
-            vím stejně málo, jako to víš ty.  
-            Leč příroda, můj milý človíčku,  
-            je neuvěřitelně rozmanitá  
-            a fantastičtější, než by kdo tušil.“
+            _„Ničemu nerozumíš, človíčku!  
+_            _Neb u vás lidí pedofilie  
+_            _je jasnou abnormální aberací,  
+_            _jež neslouží žádnému účelu  
+_            _a nadto děti těžce traumati__suje.  
+_            _Však u nás, u štěnic, je tomu zcela jinak,  
+_            _neb je to součástí reprodukčního cyklu,  
+_            _protože tím, že zneužívám nymfy,  
+_            _vstřikuji jim své sperma do střeva  
+_            _a tím je živím, jako u jiných  
+_            _zvířat své mladé matka živí mlékem.  
+_            _Tak, místo abych byl snad zlotřilcem,  
+_            _jsem řádným živitelem potomků,  
+_            _však proč že se to takto udělalo,_            _vím stejně málo, jako to víš ty.  
+_            _Leč příroda, můj milý človíčku,  
+_            _je neuvěřitelně rozmanitá  
+_            _a fantastičtější, než by kdo tušil.“_
 
 </section>
 
@@ -48,7 +47,7 @@ jenž ovšem v bajce mohl hovořit:
 
 ![](../Images/012.jpg)
 
-**— ARGUMENTUM —  
-**Jiné bytosti – jiný způsob. Příroda je ještě bizarnější než Křesadlo ve svých knihách, takže proč by nebyl.
+**_— ARGUMENTUM —  
+_**_Jiné bytosti – jiný způsob. Příroda je ještě bizarnější než Křesadlo ve svých knihách, takže proč by nebyl._
 
 </section>

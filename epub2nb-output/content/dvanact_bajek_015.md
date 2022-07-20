@@ -1,6 +1,6 @@
 ---
 title: 11\. Člověk a pavián
-contentType: prose
+contentType: poetry
 ---
 
 <section>

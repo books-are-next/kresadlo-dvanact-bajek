@@ -1,0 +1,298 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Dvanáct bajek",
+  "author": "Jan Křesadlo",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "kresadlo-dvanact-bajek-cb1ea9d",
+  "revision": "cb1ea9d",
+  "readingOrder": [
+    "promo.html",
+    "dvanact_bajek_005.html",
+    "dvanact_bajek_006.html",
+    "dvanact_bajek_007.html",
+    "dvanact_bajek_008.html",
+    "dvanact_bajek_010.html",
+    "dvanact_bajek_011.html",
+    "dvanact_bajek_012.html",
+    "dvanact_bajek_013.html",
+    "dvanact_bajek_014.html",
+    "dvanact_bajek_015.html",
+    "dvanact_bajek_016.html",
+    "about.html"
+  ],
+  "generatedAt": {
+    "date": "Wed Jul 20 2022 10:38:51 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658313531860
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "dvanact_bajek_005.html",
+      "toc": []
+    },
+    {
+      "title": "Dvanáct bajek",
+      "file": "dvanact_bajek_005.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "dvanact_bajek_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1. Tučňáci a albatros",
+      "file": "dvanact_bajek_006.html",
+      "words": 330,
+      "chars": 1955,
+      "ideas": 59,
+      "role": "chapter",
+      "order": 2,
+      "prev": "dvanact_bajek_005.html",
+      "next": "dvanact_bajek_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1. Tučňáci a albatros",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "2. Obluda, lev, parasit a zvířata",
+      "file": "dvanact_bajek_007.html",
+      "words": 402,
+      "chars": 2275,
+      "ideas": 74,
+      "role": "chapter",
+      "order": 3,
+      "prev": "dvanact_bajek_006.html",
+      "next": "dvanact_bajek_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "2. Obluda, lev, parasit a zvířata",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "3. Hovnivár a slon",
+      "file": "dvanact_bajek_008.html",
+      "words": 186,
+      "chars": 1134,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 4,
+      "prev": "dvanact_bajek_007.html",
+      "next": "dvanact_bajek_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "3. Hovnivár a slon",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "4.–6. Tři kratší bajky lidového původu",
+      "file": "dvanact_bajek_010.html",
+      "words": 290,
+      "chars": 1695,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 5,
+      "prev": "dvanact_bajek_008.html",
+      "next": "dvanact_bajek_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "4.–6. Tři kratší bajky lidového původu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "7. Hrabáč kapský a kavka",
+      "file": "dvanact_bajek_011.html",
+      "words": 219,
+      "chars": 1296,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 6,
+      "prev": "dvanact_bajek_010.html",
+      "next": "dvanact_bajek_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "7. Hrabáč kapský a kavka",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "8. Kůň a rejsek",
+      "file": "dvanact_bajek_012.html",
+      "words": 224,
+      "chars": 1286,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 7,
+      "prev": "dvanact_bajek_011.html",
+      "next": "dvanact_bajek_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "8. Kůň a rejsek",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "9. Rejsek a sova",
+      "file": "dvanact_bajek_013.html",
+      "words": 85,
+      "chars": 450,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 8,
+      "prev": "dvanact_bajek_012.html",
+      "next": "dvanact_bajek_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "9. Rejsek a sova",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "10. Volavka a axolotl",
+      "file": "dvanact_bajek_014.html",
+      "words": 194,
+      "chars": 1062,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 9,
+      "prev": "dvanact_bajek_013.html",
+      "next": "dvanact_bajek_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "10. Volavka a axolotl",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "11. Člověk a pavián",
+      "file": "dvanact_bajek_015.html",
+      "words": 210,
+      "chars": 1259,
+      "ideas": 36,
+      "role": "chapter",
+      "order": 10,
+      "prev": "dvanact_bajek_014.html",
+      "next": "dvanact_bajek_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "11. Člověk a pavián",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "12. Člověk a štěničák",
+      "file": "dvanact_bajek_016.html",
+      "words": 228,
+      "chars": 1317,
+      "ideas": 40,
+      "role": "chapter",
+      "order": 11,
+      "prev": "dvanact_bajek_015.html",
+      "next": "about.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "12. Člověk a štěničák",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 136,
+      "chars": 883,
+      "ideas": 16,
+      "role": "about",
+      "order": null,
+      "prev": "dvanact_bajek_016.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tiráž",
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 2511,
+      "chars": 14646,
+      "ideas": 446
+    },
+    "chapters": {
+      "words": 2369,
+      "chars": 13729,
+      "ideas": 426
+    }
+  }
+}

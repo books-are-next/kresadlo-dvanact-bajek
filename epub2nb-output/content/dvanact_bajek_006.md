@@ -1,6 +1,6 @@
 ---
 title: 1\. Tučňáci a albatros
-contentType: prose
+contentType: poetry
 ---
 
 <section>

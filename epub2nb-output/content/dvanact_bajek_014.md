@@ -1,6 +1,6 @@
 ---
 title: 10\. Volavka a axolotl
-contentType: prose
+contentType: poetry
 ---
 
 <section>

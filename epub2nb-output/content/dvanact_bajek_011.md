@@ -1,6 +1,6 @@
 ---
 title: 7\. Hrabáč kapský a kavka
-contentType: prose
+contentType: poetry
 ---
 
 <section>

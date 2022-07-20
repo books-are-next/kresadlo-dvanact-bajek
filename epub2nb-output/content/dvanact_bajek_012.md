@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Kůň, uvázaný k žlabu ve stáji,  
+Kůň, uvázaný k žlabu ve stáji,  
 se chlubil maličkému rejskovi:  
             „Hle, jak jsem daleko to dopracoval,  
             že stal jsem se tak velkým zvířetem,  
@@ -31,26 +31,26 @@ se chlubil maličkému rejskovi:
             kdežto ty, rejsku, neboť na nic nedbáš,  
             jsi víceméně v jednom tahu stejný  
             jako tvá první známá fosilie,  
-            a nezvětšil ses ani o kousek.“_
+            a nezvětšil ses ani o kousek.“
 
 </section>
 
 <section>
 
-_Tomuto odpověděl rejsek SOREX:  
+Tomuto odpověděl rejsek SOREX:  
             „Toť věru koňská úvaha a rozum!  
             Jsi sice velký, značně mohutný,  
             však uvázán jsi k žlabu na ohav  
             a ve dne musíš těžce pracovat,  
             zatímco já si dělám to, co chci.  
             Tak snaha úporná tě spoutala  
-            a zbavila tě zcela svobody.“_
+            a zbavila tě zcela svobody.“
 
 </section>
 
 <section>
 
-_**— ARGUMENTUM —  
-Tato bajka vyjadřuje rub podnikatelských snah, že totiž podnikatel, byť úspěšný, potom neví, kde mu hlava stojí, a je permanentně zapřažen.**_
+**— ARGUMENTUM —  
+Tato bajka vyjadřuje rub podnikatelských snah, že totiž podnikatel, byť úspěšný, potom neví, kde mu hlava stojí, a je permanentně zapřažen.**
 
 </section>

@@ -5,9 +5,9 @@ contentType: poetry
 
 <section>
 
-_![](../Images/007.jpg)_
+![](../Images/007.jpg)
 
-_Pták **kavka** čili _CORVUS MONEDULA_  
+Pták **kavka** čili _CORVUS MONEDULA_  
 zaletěl kdys do zoologické zahrady,  
 kde spatřil ve příslušné ohrádce,  
 že prohání se prapodivné zvíře,  
@@ -41,7 +41,7 @@ Tak pták ten kavka, ve své blbosti,
 kapského nerozeznal hrabáče,  
 a prokázav tak drzou nevzdělanost,  
 odletěl opět krákat někam jinam,  
-nejsa si blbosti své avšak ani vědom._
+nejsa si blbosti své avšak ani vědom.
 
 </section>
 
@@ -49,7 +49,7 @@ nejsa si blbosti své avšak ani vědom._
 
 **![](../Images/008.jpg)**
 
-_**— ARGUMENTUM —  
-Tato bajka je zaměřena proti dnešní drzé, polovzdělané** **mládeži, která pronáší hloupé apodiktické soudy o věcech, kterým vůbec nerozumí.**_
+**— ARGUMENTUM —  
+Tato bajka je zaměřena proti dnešní drzé, polovzdělané** **mládeži, která pronáší hloupé apodiktické soudy o věcech, kterým vůbec nerozumí.**
 
 </section>

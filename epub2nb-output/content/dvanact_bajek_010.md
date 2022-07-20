@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_I.  
+I.  
 Šlakol tečkovaný DASYURUS VIVERRINUS  
 /což jakás vačnatá je kuna aneb kočka/  
 klokana pronásledoval kdys pižmového,  
@@ -22,13 +22,13 @@ buď, že ten šlakol byla samice,
 anebo naopak ten klokánek byl gay —  
 a pravil chlubně hláskem pisklavým:  
             „Copak jsem ti už dávno neříkal,  
-            že se s tebou srát dlouho nebudu?!“_
+            že se s tebou srát dlouho nebudu?!“
 
 </section>
 
 <section>
 
-_II.  
+II.  
 MACROSCELIDES PROBOSCIDEUS  
 presslovským jménem bércoun africký  
 a po anglicku the Elephant Shrew,  
@@ -49,13 +49,13 @@ Tu stalo se, že kolem létla vosa
 a bodla slonici tu do rypáku,  
 až slonice zařvala bolestí.  
 Tu chlubně pravil bércoun africký:  
-            „No vidíš, to ti dávám, že už křičíš!“_
+            „No vidíš, to ti dávám, že už křičíš!“
 
 </section>
 
 <section>
 
-_III.  
+III.  
 Pták moa PACHYORNIS ELEPHANTOPUS  
 na Novém Zélandě, když ještě živ byl, potkal,  
 kiviho jakéhos APTERYX SPECIES.  
@@ -63,7 +63,7 @@ Tu pravil ten pták moa kivimu:
             „Hé, kivi, hele, jak jsem veliký,  
             a ty jsi proti mně tak maličký!“  
 Tu pravil v odvět kivi moovi:  
-            „No ale — já byl loni nemocný!“_
+            „No ale — já byl loni nemocný!“
 
   
   
@@ -74,7 +74,7 @@ Tu pravil v odvět kivi moovi:
 
 <section>
 
-_**— ARGUMENTUM —  
-**Tyto tři bajky jsou zaměřeny proti těm, kdož přeceňují své síly, schopnosti a význam, chybně chápou události a okolnosti._
+**— ARGUMENTUM —  
+**Tyto tři bajky jsou zaměřeny proti těm, kdož přeceňují své síly, schopnosti a význam, chybně chápou události a okolnosti.
 
 </section>

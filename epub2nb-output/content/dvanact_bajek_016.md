@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Člověk pozoroval kdys samce štěnice  
+Člověk pozoroval kdys samce štěnice  
 — CIMICEM LECTULARIUM GENERA MASCULINE —  
 jak souloží s vlastními nymfami,  
 i zhnusil se a pravil k němu: „Prase!  
@@ -40,7 +40,7 @@ jenž ovšem v bajce mohl hovořit:
             vím stejně málo, jako to víš ty.  
             Leč příroda, můj milý človíčku,  
             je neuvěřitelně rozmanitá  
-            a fantastičtější, než by kdo tušil.“_
+            a fantastičtější, než by kdo tušil.“
 
 </section>
 
@@ -48,7 +48,7 @@ jenž ovšem v bajce mohl hovořit:
 
 ![](../Images/012.jpg)
 
-_**— ARGUMENTUM —  
-**Jiné bytosti – jiný způsob. Příroda je ještě bizarnější než Křesadlo ve svých knihách, takže proč by nebyl._
+**— ARGUMENTUM —  
+**Jiné bytosti – jiný způsob. Příroda je ještě bizarnější než Křesadlo ve svých knihách, takže proč by nebyl.
 
 </section>

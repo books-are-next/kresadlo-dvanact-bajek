@@ -27,7 +27,7 @@
       "figure": "MLP.obrazky.*\nmlpobrazky",
       "centered": ".*uprostred.*",
       "verse": "MLP.verse.*",
-      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.verse.*\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
+      "em": ".*kurziva.*\n.*-I-.*\n.*-I\n.*_I_.*\n.*_I\nMLP.venovani\nMLP.titulka.prekladatel\nMLP.pozn.pod.carou\nMLP.scenicke.poznamky\ne.booktextvenovani.*\nmlpvenovani.*\nmlpversei",
       "strong": "MLP.tiraz.autor.a.nazev\nMLP.tiraz.podnazev\nMLP.licence.paragraf\n.*tucne.*\n.*tucna.*\n.*-B-\n.*-B\n.*_B_\n.*_B\nMLP.prima.rec\nMLP.prima.rec.bez.mezery\ne.booktirazautoradilo\nmlptextb\nmlptirazautoranazev",
       "remove": "",
       "ignore": ""
@@ -37,6 +37,7 @@
         "isSection": true,
         "id": "section-1",
         "listType": "plain",
+        "devoured": false,
         "children": [
           {
             "filename": "dvanact_bajek_001.md",
@@ -108,8 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "1. Tučňáci a albatros"
+            "title": "1. Tučňáci a albatros",
+            "children": []
           },
           {
             "filename": "dvanact_bajek_007.md",
@@ -121,8 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "2. Obluda, lev, parasit a zvířata"
+            "title": "2. Obluda, lev, parasit a zvířata",
+            "children": []
           },
           {
             "filename": "dvanact_bajek_008.md",
@@ -134,8 +135,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "3. Hovnivár a slon"
+            "title": "3. Hovnivár a slon",
+            "children": []
           },
           {
             "filename": "dvanact_bajek_009.md",
@@ -159,8 +160,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "4.–6. Tři kratší bajky lidového původu"
+            "title": "4.–6. Tři kratší bajky lidového původu",
+            "children": []
           },
           {
             "filename": "dvanact_bajek_011.md",
@@ -172,8 +173,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "7. Hrabáč kapský a kavka"
+            "title": "7. Hrabáč kapský a kavka",
+            "children": []
           },
           {
             "filename": "dvanact_bajek_012.md",
@@ -185,8 +186,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "8. Kůň a rejsek"
+            "title": "8. Kůň a rejsek",
+            "children": []
           },
           {
             "filename": "dvanact_bajek_013.md",
@@ -198,8 +199,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "9. Rejsek a sova"
+            "title": "9. Rejsek a sova",
+            "children": []
           },
           {
             "filename": "dvanact_bajek_014.md",
@@ -211,8 +212,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "10. Volavka a axolotl"
+            "title": "10. Volavka a axolotl",
+            "children": []
           },
           {
             "filename": "dvanact_bajek_015.md",
@@ -224,8 +225,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "11. Člověk a pavián"
+            "title": "11. Člověk a pavián",
+            "children": []
           },
           {
             "filename": "dvanact_bajek_016.md",
@@ -237,8 +238,8 @@
             "hungry": true,
             "devoured": false,
             "hiddenTitle": false,
-            "children": [],
-            "title": "12. Člověk a štěničák"
+            "title": "12. Člověk a štěničák",
+            "children": []
           },
           {
             "filename": "dvanact_bajek_017.md",
@@ -252,8 +253,7 @@
             "hiddenTitle": false,
             "children": []
           }
-        ],
-        "devoured": false
+        ]
       }
     ],
     "replacements": []
@@ -508,6 +508,6 @@
       "user": "books-are-next",
       "repo": "kresadlo-dvanact-bajek"
     },
-    "generatedAt": 1657186822082
+    "generatedAt": 1658313416157
   }
 }

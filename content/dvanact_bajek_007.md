@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_V jakémsi lese žila mocná **obluda**,  
+V jakémsi lese žila mocná **obluda**,  
 která tam žrala druhá zvířata,  
 takže ji, ovšem, všechna nenáviděla.  
 Nicméně, nemohli ti tvorové nic dělat,  
@@ -73,7 +73,7 @@ a takto delegaci odvětil:
             a teprv potom byli bojovní,  
             musím vám říci pouze: bohužel,  
             protože to byl zápas jenom lví  
-            a lví je teď i rozhodování.“_
+            a lví je teď i rozhodování.“
 
 </section>
 

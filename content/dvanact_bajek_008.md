@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_**Hovnivár**, GEOTRUPES SPECIES,  
+**Hovnivár**, GEOTRUPES SPECIES,  
 species ovšem ňáká africká,  
 se rozhodl, že do zoologie  
 nepustí **slona**: Neb je příliš velký  
@@ -31,7 +31,7 @@ _            _a tudíž jasně do zoologie,
 _            _s čímž nehneš, neb to přírodní je řád,  
 _            _tak jako s tím, že sám se živíš lejnem,  
 _            _co vykadí zvířata nad tě větší,  
-_            _mezi něž, ovšem, patří taky slon.“__
+_            _mezi něž, ovšem, patří taky slon.“_
 
   
   
@@ -42,8 +42,8 @@ _            _mezi něž, ovšem, patří taky slon.“__
 
 <section>
 
-_**— ARGUMENTUM —  
-**_Tato bajka se týká jistého literárního kritika, jehož však nebudu jmenovat, abych mu nezajistil trvalejší jméno._      **![](../Images/brouk.jpg)**_
+**— ARGUMENTUM —  
+**_Tato bajka se týká jistého literárního kritika, jehož však nebudu jmenovat, abych mu nezajistil trvalejší jméno._      **![](../Images/brouk.jpg)**
 
 </section>
 

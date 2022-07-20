@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_**Tučňáci** pořádali soutěž v létání,  
+**Tučňáci** pořádali soutěž v létání,  
 že totiž na prostranství k tomu ustanoveném,  
 každý z nich různě pobíhal a poskakoval,  
 mávaje přitom zakrslými křídly,  
@@ -59,7 +59,7 @@ Slyše to albatros mu pravil v odvět:
             a kterou, pěšáci, vy nikdy nepoznáte,  
             mi sama je nejlepší odměnou.“  
 Pravil, a dovodiv svou první thesi skutkem,  
-odlétl vzhůru na mohutných křídlech._
+odlétl vzhůru na mohutných křídlech.
 
   
   
@@ -70,7 +70,7 @@ odlétl vzhůru na mohutných křídlech._
 
 <section>
 
-_**— ARGUMENTUM —  
-**Tato bajka komentuje situaci v současné poesii._
+**— ARGUMENTUM —  
+**Tato bajka komentuje situaci v současné poesii.
 
 </section>

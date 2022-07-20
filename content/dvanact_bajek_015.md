@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_Člověk se tázal kdysi paviána,  
+Člověk se tázal kdysi paviána,  
 proč že má takovou červenou zadnici.  
 A pavián, jenž v bajce ovšem mluvil,  
 to člověkovi také vysvětlil  
@@ -36,7 +36,7 @@ a pravil: „Je to prostě záležitost
             neb ve své řeči sami pravíte,  
             že někdo někoho jebe či buzeruje.  
             A toto vaše rčení souvisí,  
-            jak jsem ti vysvětlil, s mým zadkem červeným.“_
+            jak jsem ti vysvětlil, s mým zadkem červeným.“
 
 </section>
 
@@ -44,7 +44,7 @@ a pravil: „Je to prostě záležitost
 
 **![](../Images/011.jpg)**
 
-_**— ARGUMENTUM —  
-**Všechny mrzké rysy lidské společnosti pocházejí z instinktů, obecněji zvířecích a specifičtěji opičích. Úkolem vyspělého člověka je tyto tendence rozeznávat, potlačovat a nahrazovat racionálním rozhodováním._
+**— ARGUMENTUM —  
+**Všechny mrzké rysy lidské společnosti pocházejí z instinktů, obecněji zvířecích a specifičtěji opičích. Úkolem vyspělého člověka je tyto tendence rozeznávat, potlačovat a nahrazovat racionálním rozhodováním.
 
 </section>

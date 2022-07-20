@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-_V jakési louži kdesi v Mexiku,  
+V jakési louži kdesi v Mexiku,  
 jež byla dočasná a měla brzy vyschnout,  
 se v hojné míře vyskytovali  
 mlokové AMBYSTOMA MEXICANUM  
@@ -34,7 +34,7 @@ Tu pravil jeden z mloků posledních:
             však teď nás žere taky volavka,  
             a to, že sežrala už mloky větší,  
             je pouze velmi slabá útěcha,  
-            neb teď už žraní týká se i nás.“_
+            neb teď už žraní týká se i nás.“
 
 </section>
 
@@ -42,9 +42,9 @@ Tu pravil jeden z mloků posledních:
 
 **![](../Images/010.jpg)**
 
-_**— ARGUMENTUM —  
+**— ARGUMENTUM —  
 a/ Chudej člověk je vždycky bit.  
 b/ Nespoléhej na osvoboditele, protože ten se pak často  
-     obrátí proti tobě.**_
+     obrátí proti tobě.**
 
 </section>

@@ -1,6 +1,6 @@
 ---
 title: 9\. Rejsek a sova
-contentType: prose
+contentType: poetry
 ---
 
 <section>

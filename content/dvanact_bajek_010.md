@@ -1,6 +1,6 @@
 ---
 title: 4\.–6\. Tři kratší bajky lidového původu
-contentType: prose
+contentType: poetry
 ---
 
 <section>

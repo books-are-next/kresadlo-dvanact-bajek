@@ -1,6 +1,6 @@
 ---
 title: 8\. Kůň a rejsek
-contentType: prose
+contentType: poetry
 ---
 
 <section>

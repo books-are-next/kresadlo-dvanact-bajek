@@ -1,6 +1,6 @@
 ---
 title: 2\. Obluda, lev, parasit a zvířata
-contentType: prose
+contentType: poetry
 ---
 
 <section>

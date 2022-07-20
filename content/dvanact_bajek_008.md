@@ -1,6 +1,6 @@
 ---
 title: 3\. Hovnivár a slon
-contentType: prose
+contentType: poetry
 ---
 
 <section>
@@ -44,5 +44,12 @@ _            _mezi něž, ovšem, patří taky slon.“__
 
 _**— ARGUMENTUM —  
 **_Tato bajka se týká jistého literárního kritika, jehož však nebudu jmenovat, abych mu nezajistil trvalejší jméno._      **![](../Images/brouk.jpg)**_
+
+</section>
+
+
+<section>
+
+![](../Images/004.jpg)
 
 </section>

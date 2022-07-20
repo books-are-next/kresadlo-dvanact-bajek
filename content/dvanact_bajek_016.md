@@ -1,6 +1,6 @@
 ---
 title: 12\. Člověk a štěničák
-contentType: prose
+contentType: poetry
 ---
 
 <section>

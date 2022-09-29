@@ -60,7 +60,7 @@ _            _leč, jak tu vidíte, jsem pouze lvem
 _            _a musím jednat dle své povahy,  
 _            _jak říkali již staří Římané  
 _            _latinsky: totiž vznešený hněv lví  
-_            _že umí přemoženým odpustit,_[\*](./resources/undefined)            _a tak i tomu parasitovi,  
+_            _že umí přemoženým odpustit,_[\*](../Text/dvanact_bajek_007.xhtml#footnote-000)            _a tak i tomu parasitovi,  
 _            _byť, přiznám se, i v řiti svědil mne.  
 _            _Kdybyste byli tehdy přiběhli,  
 _            _když měl jsem s monstrem zápas nerovný,  
@@ -85,6 +85,6 @@ _**Tato bajka se týká některých aspektů současnějšího politického živ
 
 * * *
 
-_[\*](./resources/undefined) Parcere subiectis scit nobilis ira leonis._
+_[\*](../Text/dvanact_bajek_007.xhtml#footnote-000-backlink) Parcere subiectis scit nobilis ira leonis._
 
 </section>

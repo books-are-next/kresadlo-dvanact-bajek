@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kresadlo-dvanact-bajek-6652e13",
-  "revision": "6652e13",
+  "identifier": "kresadlo-dvanact-bajek-85b322a",
+  "revision": "85b322a",
   "readingOrder": [
     "promo.html",
     "dvanact_bajek_005.html",
@@ -26,8 +26,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 14:10:31 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665151831042
+    "date": "Mon Oct 10 2022 16:03:14 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665417794047
   },
   "documents": [
     {
@@ -265,9 +265,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 134,
-      "chars": 883,
-      "ideas": 14,
+      "words": 131,
+      "chars": 862,
+      "ideas": 13,
       "role": "about",
       "order": null,
       "prev": "dvanact_bajek_016.html",
@@ -285,9 +285,9 @@
   ],
   "totals": {
     "all": {
-      "words": 2678,
-      "chars": 16954,
-      "ideas": 448
+      "words": 2675,
+      "chars": 16933,
+      "ideas": 447
     },
     "chapters": {
       "words": 2538,

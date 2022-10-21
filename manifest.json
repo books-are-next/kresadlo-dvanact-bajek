@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "kresadlo-dvanact-bajek-85b322a",
-  "revision": "85b322a",
+  "identifier": "kresadlo-dvanact-bajek-6de47d1",
+  "revision": "6de47d1",
   "readingOrder": [
     "promo.html",
     "dvanact_bajek_005.html",
@@ -26,8 +26,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 16:03:14 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665417794047
+    "date": "Fri Oct 21 2022 11:36:15 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666352175264
   },
   "documents": [
     {
